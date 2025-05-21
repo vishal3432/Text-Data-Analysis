@@ -14,3 +14,31 @@ This repository ships a self‑contained Jupyter Notebook, **`youtube_analys
    - *Which category earns the most likes?*  
    - *Are audiences truly engaged?*  
    - *Do punctuation marks in titles/tags correlate with performance?*
+--- 
+  
+ ## Features 
+  
+ - **Interactive Visualizations:** Charts, graphs, and KPIs to track trends in YouTube content performance. 
+ - **Country & Category Insights:** Analyze YouTube growth by region and video genre. 
+ - **Engagement Metrics:** Monitor likes, comments, and shares to identify high-engagement content. 
+ - **Top Channels & Videos:** Identify the most influential channels and viral videos of 2023. 
+  
+ --- 
+
+### Dataset Includes: 
+  
+ - Country-wise YouTube statistics 
+ - Popularity metrics (views, likes, comments, shares) 
+ - Channel performance indicators 
+ - Video category breakdowns 
+  
+ --- 
+
+  
+ ## Overview 
+  
+ This Power BI project provides an interactive dashboard for analyzing global YouTube statistics for 2023. It enables users to explore trends, top-performing content, and other key insights related to YouTube performance. 
+  
+ ![Dashboard Screenshot]() 
+  
+ ---
