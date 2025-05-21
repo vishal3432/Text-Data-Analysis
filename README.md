@@ -39,6 +39,6 @@ This repository ships a self‑contained Jupyter Notebook, **`youtube_analys
   
  This Power BI project provides an interactive dashboard for analyzing global YouTube statistics for 2023. It enables users to explore trends, top-performing content, and other key insights related to YouTube performance. 
   
- ![Dashboard Screenshot]() 
+ ![Dashboard Screenshot](powerbi_youtube_dashboard.png)
   
  ---
